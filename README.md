@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fadi-Nayef
 - 👀 I’m interested in technology and discovering all news
 - 🌱 I’m currently learning programming
-- 📫 How to reach me on  [Fadi Adra](adraf38@hotmail.com)
+- 📫 reach me on  [Fadi Adra](adraf38@hotmail.com)
 
 <!---
 Fadi-Nayef/Fadi-Nayef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
