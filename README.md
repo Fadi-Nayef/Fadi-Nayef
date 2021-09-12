@@ -3,6 +3,10 @@
 
 <!--Introduction -->
 I'm Fadi! I'm a **Full Stack Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my profile interesting, at least your star could make someone's day:pray:.
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=Fadi-Nayef)
+
+
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b> Hi, I'll be happy to meet you more!</b> :blush:</em>
 <!-- Sample Dev class image -->
@@ -28,3 +32,5 @@ Since the world is in the quarantine stage:earth_asia:, and I’m striving to le
   <a href="https://gitstats.me/JoykishanSharma">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=Fadi-Nayef&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" /></p>
+  
+
